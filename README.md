@@ -1,1 +1,1 @@
-# bnt-onr-pager
+# bnt-one-pager
